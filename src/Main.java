@@ -14,6 +14,7 @@ public class Main {
                     "If you do not want to keep playing, simply input \"q\" to leave the game. After 5 rounds or after you choose to quit, you can choose to play again.\n" +
                     "Let's Start!\n");
 
+            // initializes the storage of the game
             SongCollection sc = new SongCollection();
 
             String answer = "";

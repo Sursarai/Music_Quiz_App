@@ -11,7 +11,7 @@ Control the song collection operations:
  */
 public class SongCollection {
     // Keys are song names & values are lyrics
-    Hashtable <String,String> songCollection = new Hashtable<>();
+  //  Hashtable <String,String> songCollection = new Hashtable<>();
     String[] songsNames = {"Sacrifice", "Take My Breath", "Out of Time", "Faith", "In Your Eyes", "Starry Eyes"};
     String [] lyrics = {"\"I was born in a city where the winter nights never sleep.\"", "\"It's like a dream what she feels with me. She loves to be on the edge.\"",
             "\"If he mess up just a little, baby, you know my line. If you don't trust him a little, then come right back, girl, come right back.\"",
